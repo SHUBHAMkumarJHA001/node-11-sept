@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "first_name": "Burton",
+        "last_name": "Deards",
+        "email": "bdeards0@google.ca",
+        "gender": "Male"
+    },
+    {
+        "id": 2,
+        "first_name": "Georgine",
+        "last_name": "Farnie",
+        "email": "gfarnie1@ucoz.com",
+        "gender": "Female"
+    },
+    {
+        "id": 3,
+        "first_name": "Kain",
+        "last_name": "O'Dennehy",
+        "email": "kodennehy2@wikimedia.org",
+        "gender": "Male"
+    },
+    {
+        "id": 4,
+        "first_name": "Issie",
+        "last_name": "Phear",
+        "email": "iphear3@biblegateway.com",
+        "gender": "Female"
+    },
+    {
+        "id": 5,
+        "first_name": "Wendi",
+        "last_name": "Orneles",
+        "email": "worneles4@friendfeed.com",
+        "gender": "Female"
+    },
+    {
+        "id": 6,
+        "first_name": "Hilary",
+        "last_name": "Pauncefoot",
+        "email": "hpauncefoot5@friendfeed.com",
+        "gender": "Female"
+    },
+    {
+        "id": 7,
+        "first_name": "Trev",
+        "last_name": "Meeron",
+        "email": "tmeeron6@wikia.com",
+        "gender": "Male"
+    },
+    {
+        "id": 8,
+        "first_name": "Delores",
+        "last_name": "Maccaddie",
+        "email": "dmaccaddie7@cnet.com",
+        "gender": "Female"
+    },
+    {
+        "id": 9,
+        "first_name": "Gizela",
+        "last_name": "McCart",
+        "email": "gmccart8@usatoday.com",
+        "gender": "Female"
+    },
+    {
+        "id": 10,
+        "first_name": "Maurits",
+        "last_name": "Skipping",
+        "email": "mskipping9@mediafire.com",
+        "gender": "Male"
+    }
+]
